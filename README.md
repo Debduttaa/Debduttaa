@@ -4,7 +4,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 
 <a href="mailto:rudradebdutta20@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" align-items="center" />
 </a>
 
 <br />
